@@ -18,9 +18,4 @@ Full-Stack Web Foundations: Training in HTML5, CSS3, and JavaScript to ensure se
 Advanced SQL & Data Analysis: Deep-dive into relational database management, focusing on complex queries, data analysis, and ensuring data integrity through optimized SQL statements.
 Professional Development: Focus on career transitioning and agile methodologies to remain effective in fast-paced development environments.
 
-📂 Repository Organization
-The documents in this repository are categorized into the following folders for easy navigation:
-01_Core_Development/: Primary .NET and Full-Stack internship credentials.
-02_Cloud_Infrastructure/: AWS certifications and Cloud-native training.
-03_Academic_&_Leadership/: Degree certificates and leadership awards.
-04_Supplemental_Training/: Technical micro-credentials and professional skills.
+
